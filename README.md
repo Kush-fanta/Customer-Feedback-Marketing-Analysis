@@ -45,4 +45,4 @@ This project analyzes customer feedback and marketing campaign performance for *
 ##  How to Use This Repository
 1. **Clone the Repo**
    ```bash
-   git clone https://github.com/vijaypatidar123/-customer-feedback-marketing-analysis.git
+   git clone https://github.com/Kush-fanta/Customer-Feedback-Marketing-Analysis
